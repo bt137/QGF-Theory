@@ -44,7 +44,7 @@ QGF proposes that geometry and field dynamics emerge from the entanglement struc
 ## Author
 Bhavesh Tekwani
 Independent Researcher
-bt@oracutron.com
+bt@oractron.com
 https://github.com/bt137/QGF-Theory
 
 ---
