@@ -1,0 +1,31 @@
+{
+  "title": "Quantum Geometric Framework: Emergent Spacetime from Modular Categories",
+  "upload_type": "software",
+  "publication_date": "2025-05-15",
+  "creators": [
+    {
+      "name": "Tekwani, Bhavesh",
+      "orcid": "0009-0004-4972-8710",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "This archive contains the full reproducible code, data, and simulation tools used in the Quantum Geometric Framework (QGF) theory. It includes fusion rule data, modular tensor category files, RG flow simulations, Yukawa path estimators, and mutual information-based metric reconstructions, as described in the accompanying paper.",
+  "version": "2.0",
+  "license": "MIT",
+  "keywords": [
+    "quantum gravity",
+    "fusion categories",
+    "modular tensor category",
+    "entanglement geometry",
+    "renormalization group",
+    "QGF"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/bt137/QGF-Theory"
+    }
+  ],
+  "access_right": "open",
+  "language": "eng"
+}

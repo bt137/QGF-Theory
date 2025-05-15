@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this QGF package or cite results from the paper, please use the following citation."
+title: "Quantum Geometric Framework: Emergent Spacetime from Modular Categories"
+version: "2.0"
+doi: "10.5281/zenodo.15384837"
+authors:
+  - family-names: Tekwani
+    given-names: Bhavesh
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0004-4972-8710"
+date-released: 2025-05-15
+keywords:
+  - quantum gravity
+  - modular tensor category
+  - fusion rules
+  - entanglement geometry
+  - categorical physics
+license: MIT
+repository-code: "https://github.com/bt137/QGF-Theory"
+
+@misc{tekwani_qgf_2025,
+  author       = {Bhavesh Tekwani},
+  title        = {Quantum Geometric Framework: Emergent Spacetime from Modular Categories},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15384837},
+  version      = {v2.0}
+}
